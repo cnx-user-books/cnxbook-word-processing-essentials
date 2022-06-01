@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Spelling and Grammar Checker</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36217</md:content-id>
+  <md:title>Spelling and Grammar Checker</md:title>
+  <md:abstract>Simple instructions for using the spelling and grammar checking features of word processing.</md:abstract>
+  <md:uuid>c10a7c41-c829-4dc7-88a2-78c5edf31a13</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="eip-492"><title>Spelling and Grammar Checker</title><para id="eip-136">Many students, especially ESL students, hope to write an academic essay, paper, or any academic writing that is free of spelling or grammar mistakes. Sometimes when we revise our work, we might miss or cannot recognize some of those mistakes, and for that reason, Microsoft Office Word has provided the world an awesome feature called Spelling and Grammar Checker. Spelling and Grammar Checker helps you avoid many common spelling and grammar errors in your word documents, and at the same time you may correct some of them.</para></section>
+    
+    <section id="eip-533"><title>Types of Errors</title><para id="eip-823">
+There are three different wavy underline colors that have three different meanings: green, red, and blue; the green wavy underline indicates grammatical error(s), the red wavy underline refers to spelling error(s), and the blue wavy underline refers to contextual error(s).
+</para></section><figure id="id1165677475096">
+      <media id="id1165677475096_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-f1a6.jpg" id="id1165677475096__onlineimage" height="450" width="600"/>
+      </media>
+    </figure>
+    
+    <section id="eip-717"><title>Auto Corrections</title><para id="eip-171">Microsoft Office Word has a feature that corrects some spelling errors automatically; for example, if you type "teh" instead of "the", the word "teh" will be adjusted automatically to "the". <emphasis>However, the application cannot correct or find all grammar mistakes,</emphasis> so you have to review your document thoroughly before printing the final draft, and make sure that your document does not have any spelling, grammatical, or contextual errors. </para>
+<para id="eip-id1163802887972">There are many methods to identify misspelled words or questionable grammar in your document: you may print your document and give it to someone else to correct it using a marker, or you may read your document aloud that helps you find some mistakes. </para></section>
+    <section id="eip-536"><title>Using Spelling and Grammar Checker </title><para id="eip-700">To start Spelling and Grammar Checker, do the following steps:</para></section>
+    <figure id="id1165696511699">
+      <media id="id1165696511699_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-507c.jpg" id="id1165696511699__onlineimage" height="450" width="600"/>
+      </media>
+    </figure>
+    <para id="id1165685496676">Then, choose the appropriate options. Once you finish, click the X button on the right top corner of the Spelling and Grammar dialog box to close the dialog box.</para>
+  </content>
+</document>

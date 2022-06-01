@@ -1,0 +1,54 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Files Management</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36246</md:content-id>
+  <md:title>Files Management</md:title>
+  <md:abstract>Simple instructions for managing files using USB drives.</md:abstract>
+  <md:uuid>9c47f4fb-eb5a-4a0f-a8d8-d3844d0c2d14</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165831177890">
+      <title>Usb Drive:</title>
+      <para id="id1165805719543">Usb drive can be used for storing file and folders, it can be used for backing up files, and it is Easy to share and travel with.</para>
+      <list id="id1165832387047" list-type="bulleted">
+        <item>You can find the USB Drive in my computer in start.</item>
+        <item>You will find it under Devices with removable storage. </item>
+        <item>You can rename the USB Drive by clicking the right side of the mouse.</item>
+      </list>
+      <figure id="id1165821900470">
+        <media id="id1165821900470_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-ab49.jpg" id="id1165821900470__onlineimage" height="450" width="600"/>
+        </media>
+      </figure>
+    </section>
+    <section id="id1165820389127">
+      <title>To create a folder in the USB Drive:</title>
+      <para id="id1165838940507">Folders can be created in Documents and in the Desktop, with creating folders you can create a folder within the folder that’s called “Subfolders”.</para>
+      <list id="id1165811313121" list-type="bulleted">
+        <item>Start my computer.</item>
+        <item>Double-Click on the removable disk</item>
+        <item>Right click on the empty space find the word “New” – find the word “Folder”. </item>
+      </list>
+      <figure id="id1165818341338">
+        <media id="id1165818341338_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-1a06.jpg" id="id1165818341338__onlineimage" height="450" width="600"/>
+        </media>
+      </figure>
+    </section>
+    <section id="id1165821886299">
+      <title>To save fills in the folder USB Drive:</title>
+      <para id="id1165811072213">Saving files is very easy, you can save files anywhere in the computer, you can rename the file; change the saving location of the file, and save it in a Different type. </para>
+      <para id="id1165837573920">Press the “office button”.</para>
+      <para id="id1165815445135">Click on “Save as”.</para>
+      <para id="id1165819117936">Type the file name.</para>
+      <para id="id1165826834723">Change the location of the file anywhere on the computer</para>
+      <para id="id1165813509806">Click “Save”.</para>
+      <figure id="id1165805577581">
+        <media id="id1165805577581_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-6f42.jpg" id="id1165805577581__onlineimage" height="450" width="600"/>
+        </media>
+      </figure>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,19 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Citations In-Line with Bibliography</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36245</md:content-id>
+  <md:title>Citations In-Line with Bibliography</md:title>
+  <md:abstract>How to cite references in-line then adding a bibliography.</md:abstract>
+  <md:uuid>eda94426-68dd-42dd-bf80-cef3fae70c14</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id1169294859025">A <emphasis effect="bold">bibliography </emphasis>is a list of works cited by an auther and should be included with the document when published. Select either Bibliography or work cited from the list of <emphasis effect="bold">Bilt-In Bibliographies</emphasis>. After you add the sources using the Insert Citations feature, you click <emphasis effect="bold">Bibliography</emphasis> in the <emphasis effect="bold">Citations &amp; Bibliography group</emphasis> on the <emphasis effect="bold">References tab</emphasis>, and then click <emphasis effect="bold">Insert Bibliography</emphasis>. The insert Bibliography selection at the bottom will work the same way it just won’t format the bibliography like the <emphasis effect="bold">Bilt-In selections</emphasis>.</para>
+    <figure id="id1169319529171">
+      <media id="id1169319529171_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-8aa5.jpg" id="id1169319529171__onlineimage" height="450" width="600"/>
+      </media>
+    </figure>
+  </content>
+</document>

@@ -1,0 +1,42 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Paragraph Concept</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36218</md:content-id>
+  <md:title>Paragraph Concept</md:title>
+  <md:abstract>An explanation of how to type paragraphs properly within word processing documents.  An explanation of how tabs and returns are treated; including the use of the show/hide feature.</md:abstract>
+  <md:uuid>e16fd49a-7622-4402-a2a7-950bd669b78d</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1166317460615">
+      <title>Word Wrap</title>
+      <para id="id1166315207910">Word wrap is the feature of breaking lines between and not within words, except when a single word is longer than a line. So, when your line is full of text, the word processor automatically jumps to the next line. Sometime, the text may wrap in an unwanted location. To make the reading easier, you need to proofread word wrapping location and insert special characters. Two things to be concerned with are how to control word wrapping with nonbreaking hyphens and nonbreaking spaces? </para>
+      <list id="id1166319491264" list-type="bulleted">
+        <item>Insert Nonbreaking Hyphens</item>
+      </list>
+      <para id="id1166332106914">If there is a word with hyphen at the end of a line, the first word and the hyphen may appear on the first line, and the second word will be in the next line. So, to keep word with hyphen together, replace the regular hyphen with a nonbreaking hyphen. A nonbreaking hyphen prevents the word with hyphen from becoming separated at the hyphen. To insert a nonbreaking hyphen, press Ctrl+Shift+Hyphen. </para>
+      <list id="id1166315194529" list-type="bulleted">
+        <item>Insert Nonbreaking Spaces</item>
+      </list>
+      <para id="id1166322915739">Sometimes text will<emphasis effect="bold"/>wrap to the next line if a word does not fit at the end of the line, so some words should be kept together for improved readability. To prevent words from separating due to the word-wrap feature, you can insert a nonbreaking space. To insert a nonbreaking space, press Ctrl+Shift+Spacebar between the two words that you want to keep together. </para>
+      <para id="id1166315558186">
+        <figure id="id8879648">
+          <media id="id8879648_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-c50d.jpg" id="id8879648__onlineimage" height="450" width="600"/>
+          </media>
+        </figure>
+      </para>
+    </section>
+    <section id="id1166313585094">
+      <title>Show/Hide spaces, return, and tabs</title>
+      <para id="id1166319593470">I cannot tell you how helpful using this feature can be. If you get used to working in Word with this feature turned ON, you'll keep yourself out of so much trouble! As you type text, Word inserts nonprinting marks or symbols. To see these symbols click the Home tab, in the Paragraph group, click Show/Hide button that look like a reversed “p”. When you click it you will see the different characters that show you there are spaces, returns, and tabs on your text.</para>
+      <para id="id1166315188776">
+        <figure id="id1166313603481">
+          <media id="id1166313603481_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Picture 2.jpg" id="id1166313603481__onlineimage" height="433" width="577"/>
+          </media>
+        </figure>
+      </para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,36 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Auto Correct and Auto Text</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36292</md:content-id>
+  <md:title>Auto Correct and Auto Text</md:title>
+  <md:abstract>An explanation of how these two featured effect what happens when typing.</md:abstract>
+  <md:uuid>cc28a98c-9804-4451-9439-a91728e7a7da</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168096620441">
+      <title>AutoCorrect</title>
+      <para id="id1168099347577">Many people make mistakes while they are typing in the word. You will notice while you are typing your misspelled words will automatically be corrected. Here are the steps to turn on the AutoCorrect. </para>
+      <list id="id1168099734607" list-type="enumerated" number-style="arabic" mark-suffix="-">
+        <item>Click on start button as shown, and then press <emphasis effect="italics">word option</emphasis>. </item>
+        <item>Choose <emphasis effect="bold">Proofing</emphasis>. </item>
+        <item>When you click on proofing click on <emphasis effect="italics">AutoCorrect option</emphasis>.</item>
+        <item>At the last step here you can replace the incorrect word with the correct one you choose. </item>
+      </list>
+      <figure id="id1168091322170">
+        <media id="id1168091322170_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 1.jpg" id="id1168091322170__onlineimage" height="446" width="595"/>
+        </media>
+      </figure>
+    </section>
+    <section id="id1168102760276">
+      <title>AutoText</title>
+      <para id="id1168102733755">Auto text is one way to complete your unfinished words in the word document, while are you typing specially dates, time, and years you will notice that there is something popping to you like in the picture below as shown to you. You can confirm that just by pressing <emphasis effect="bold">ENTER</emphasis>. </para>
+      <figure id="id1168105210354">
+        <media id="id1168105210354_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 0-aefd.jpg" id="id1168105210354__onlineimage" height="458" width="611"/>
+        </media>
+      </figure>
+    </section>
+  </content>
+</document>

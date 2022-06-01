@@ -1,0 +1,68 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Preface</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36055</md:content-id>
+  <md:title>Preface</md:title>
+  <md:abstract>This module introduces the Connexions online textbook/collection "Word Processing Essentials" by Kenneth Leroy Busbee.</md:abstract>
+  <md:uuid>922b585c-2ee8-457d-83ea-359be446b78e</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168445021080">
+      <title>About this Collection</title>
+      <section id="id8727338">
+        <title>Word Processing Essentials</title>
+        <para id="id2403326">Word Processing Essentials is a collection of modules to teach or refresh skills for Microsoft Word. The intended audience is anyone needing to create a simple term or research paper for a high school or college course. </para>
+        <para id="id1168438841077">The collection was designed by Kenneth Leroy Busbee; however the modules in the collection were authored by students enrolled in a BCIS1405 – Business Computer Applications course at the Community College of Qatar (CCQ) during the Fall 2010 term. </para>
+      </section>
+      <section id="id1897594">
+        <title>Collection Contents</title>
+        <para id="id1168448615204">The collection has a preface module followed by five sections with topics ordered in a sequence that follows the production of a term/research paper. The sections are:</para>
+        <list id="id1168477424738" list-type="bulleted">
+          <item>Preliminaries</item>
+          <item>Typing</item>
+          <item>Improving</item>
+          <item>Printing</item>
+          <item>Appendix</item>
+        </list>
+      </section>
+      <section id="id1168450323800">
+        <title>Professional Encouragement</title>
+        <para id="id1168442040249">This project provided the students with the following supplemental experiences which all college graduates should encounter:</para>
+        <list id="id1168467831078" list-type="enumerated" number-style="arabic">
+          <item><emphasis effect="bold">Student Service Learning</emphasis> – Many of the students at CCQ will start their college education in a phase of English as a Second Language (ESL). As students progress, they will have writing assignments that include a simple research papers. Faculty teaching ESL courses need appropriate materials to help students use word processing application software to complete their assignments. The need being established, having more mature students serve other students by preparing educational materials is an excellent service project.</item>
+          <item><emphasis effect="bold">Team Work</emphasis> – All college graduates will work in many teams during their professional careers. Creating this collection as a team, helped students see the importance that collaborative efforts play in their futures. </item>
+          <item><emphasis effect="bold">Open Educational Resources (OER)</emphasis> – Electronic communication, specifically the internet, means we live in an ever shrinking world. Part of that world is freely sharing their efforts with others. Exposing students to one of the world’s leading OER repositories, Connexions, enhances their understanding of this important part of education, research and publishing.</item>
+          <item><emphasis effect="bold">Writing Across the Curriculum</emphasis> – The concept is dated, but still important. Using their English writing skills, students now see the importance of clear written communication. Their efforts are not being graded by an English teacher, but by all who will read their published materials. </item>
+        </list>
+        <para id="id1168459952487">College professors and others considering a group project involving the creation of OER materials are encouraged you to become a Connexions author of at least a dozen modules and one collection. Consider the following links:</para>
+        <list id="id8348857" list-type="bulleted">
+          <item>Understanding the Vision of Connexions – Link: <link document="col11187">http://cnx.org/content/col11187/latest/</link></item>
+          <item>Authoring Connexions Modules using Microsoft Word Documents - Link: <link document="col11154">http://cnx.org/content/col11154/latest/</link></item>
+          <item>Ideas and Tools for Improving Connexions Modules and Collections – Link: <link document="col11184">http://cnx.org/content/col11184/latest/</link></item>
+        </list>
+      </section>
+    </section>
+    <section id="id1168454552127">
+      <title>About Connexions</title>
+      <section id="id1168448047446">
+        <title>Connexions Modular Content</title>
+        <para id="id1168443903789">Connexions <link url="http://cnx.org/">http://cnx.org</link> is an online, <emphasis effect="bold">open access</emphasis> educational resource dedicated to providing high quality learning materials free online, free in printable PDF format, free as an EPUB download, and at low cost in bound volumes through print-on-demand publishing. This collection is one of many collections available to Connexions users. Each <emphasis effect="bold">collection</emphasis> is composed of a number of re-usable learning modules written in the Connexions XML markup language. Each module may also be re-used (or 're-purposed') as part of other collections and may be used outside of Connexions. </para>
+      </section>
+      <section id="id1168443768576">
+        <title>Re-use and Customization</title>
+        <para id="id2126830">The <link url="http://creativecommons.org/licenses/by/3.0/">Creative Commons (CC) Attribution license</link> applies to all Connexions modules. Under this license, any <emphasis effect="bold">Connexions module</emphasis> may be used or modified for any purpose as long as proper attribution to the original author(s) is maintained. Connexions' authoring tools make re-use (or re-purposing) easy. Therefore, instructors anywhere are permitted to create customized versions of this collection/textbook by editing modules, deleting unneeded modules, and adding their own supplementary modules. Connexions' authoring tools keep track of these changes and maintain the CC license's required attribution to the original authors. This process creates a new collection that can be viewed online, downloaded as an EPUB, downloaded as a single PDF file, or ordered in any quantity by instructors and students as a low-cost printed textbook. </para>
+      </section>
+      <section id="id2349232">
+        <title>Read the book online, download the EPUB, print the PDF, or buy a copy of the book.</title>
+        <para id="id1168442067355">To browse this collection online, visit the collection home page. You will then have four options: </para>
+        <list id="id1722669" list-type="enumerated" number-style="arabic">
+          <item>You may view the collection modules on-line by clicking on the “Start &gt;&gt;” link, which takes you to the first module in the collection. You can then navigate through the subsequent modules by using their “Next &gt;&gt;” and “Previous &gt;&gt;” links to move forward and backward in the collection. You can jump to any module in the collection by clicking on that module’s title in the “Collection Contents” box on the left side of the window. If these contents are hidden, make them visible by clicking on “[show table of contents]”. </item>
+          <item>You may obtain a PDF of the entire textbook to print or view offline by clicking on the “Download” menu item.</item>
+          <item>You may download the entire textbook as an EPUB by clicking on the “Download” menu item.</item>
+          <item>You may order a bound copy of the collection (for a reasonable printing and shipping fee) by clicking on the “Order printed collection” button. </item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,34 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Headers and Footers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36219</md:content-id>
+  <md:title>Headers and Footers</md:title>
+  <md:abstract>How to create headers and footers for a document.</md:abstract>
+  <md:uuid>fc8f7912-62fe-477f-a9eb-af2952727796</md:uuid>
+</metadata>
+
+<content>
+    <para id="id2036967"><emphasis effect="bold">Header and Footer</emphasis> are to insert whatever you need (such as page numbers, title, date…Etc.) into the head (top) and the foot (bottom) of each page. However, the main purpose for the header and footer is to add various scripts to track the access to the blog (such as Google…Etc.).</para>
+    <para id="id1170741702387">To create a header or a footer:</para>
+    <list id="id1170742407321" list-type="enumerated" number-style="arabic" mark-prefix="(" mark-suffix=")">
+      <item>Click the Insert tab.</item>
+      <item>Click on the Header/Footer pop-down menu.</item>
+    </list>
+    <figure id="id1170743529928">
+      <media id="id1170743529928_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-ed7e.jpg" id="id1170743529928__onlineimage" height="450" width="600"/>
+      </media>
+    </figure>
+    <para id="id1170743111700">After you insert the header/footer, type in header or footer whatever you like…</para>
+    <para id="id1170746590270">
+      <figure id="id1170742809314">
+        <media id="id1170742809314_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-e89a.jpg" id="id1170742809314__onlineimage" height="450" width="600"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id8909276">(1) You can insert page numbers as it shown in the picture above by choosing the design you like.</para>
+    <para id="id1170741939323">(2) Also, you can change the height of the Header/footer from the Position group as it shown in the picture above.</para>
+    <para id="id1170746499699">(3) After finishing editing the header/footer, to exit click the (" Close Header and Footer", the red X next to the Position group).</para>
+  </content>
+</document>

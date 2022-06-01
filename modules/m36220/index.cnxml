@@ -1,0 +1,51 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Selecting Text and Applying Effects</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36220</md:content-id>
+  <md:title>Selecting Text and Applying Effects</md:title>
+  <md:abstract>How to select text within a document coupled with how to apply commonly used effects such as bold, font types, etc. onto the selected text.</md:abstract>
+  <md:uuid>78fb26e5-66ec-4d5b-8adb-2da70569e0ce</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168195536457">
+      <title>Selecting Text </title>
+      <para id="id1168185313252">If you want to <emphasis effect="bold">select</emphasis> a text you have to:- </para>
+      <list id="id1168184891274" list-type="bulleted">
+        <item>Move insertion point to the word that you want to select</item>
+        <item>left click in the mouse and select the wanted text </item>
+      </list>
+      <figure id="id1168198882549">
+        <media id="id1168198882549_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-dbf7.jpg" id="id1168198882549__onlineimage" height="450" width="600"/>
+        </media>
+      </figure>
+    </section>
+    <section id="id1168197153206">
+      <title>Applying Effects</title>
+      <para id="id1168184563338">If you want to <emphasis effect="bold">apply effect</emphasis> in your text:-</para>
+      <list id="id1168203480040" list-type="bulleted">
+        <item>From the <emphasis effect="bold">font</emphasis> box which is placed in <emphasis effect="bold">home</emphasis> tab you can apply effects in your text such as, font, size, bold, underlined, italic … </item>
+        <item>You have to select the text, and then press the icon that you desire.</item>
+      </list>
+      <para id="id1168193003501">
+        <figure id="id1168193260029">
+          <media id="id1168193260029_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Picture 0-e3ac.jpg" id="id1168193260029__onlineimage" height="450" width="600"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1168185572394">The explanations for these numbers are:-</para>
+      <list id="id1168183982420" list-type="enumerated" number-style="arabic">
+        <item><emphasis effect="bold">Bold</emphasis>: to make your type apper <emphasis effect="bold">like this.</emphasis></item>
+        <item><emphasis effect="bold">Italic</emphasis>: to make your type face curve or (bend) to the right <emphasis effect="italics">like this.</emphasis></item>
+        <item><emphasis effect="bold">Underline</emphasis>: to make a line below your text <emphasis effect="underline">Like this.</emphasis></item>
+        <item><emphasis effect="bold">Strikethrough</emphasis>: to cross the text or make a line at the middle of the text.</item>
+        <item><emphasis effect="bold">Highlight color</emphasis>: to highlight a text.</item>
+        <item><emphasis effect="bold">Font color</emphasis>: to change the font color.</item>
+        <item><emphasis effect="bold">Font size: </emphasis>to change the text size.</item>
+        <item><emphasis effect="bold">Font: </emphasis>to change the font hand writing or style<emphasis effect="bold">.</emphasis></item>
+      </list>
+    </section>
+  </content>
+</document>

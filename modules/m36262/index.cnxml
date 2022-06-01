@@ -1,0 +1,41 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Insert versus Overtype</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36262</md:content-id>
+  <md:title>Insert versus Overtype</md:title>
+  <md:abstract>An explanation of how these two modes of entry effect what you see when typing.  How to toggle between the two modes.</md:abstract>
+  <md:uuid>02ba1779-e168-44d2-a900-bad289f45192</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1166235261414">
+      <title>Insert</title>
+      <para id="id1166236925224">Insert means that you add text to the current text without replacing any single letter. For example, the original sentence is “John is a good person”; if you insert “very” between “a” and “good”, the sentence will be “John is a very good person”.</para>
+      <para id="id1166236542121">
+        <emphasis>To insert a text:</emphasis>
+      </para>
+      <para id="id1166236807752">Step 1 - Move the insertion point to the place you want to insert the text.</para>
+      <para id="id1166239023370">Step 2 - Type the text you want.</para>
+    </section>
+    <section id="id1166237393568">
+      <title>Overtype</title>
+      <para id="id1166237351332">Overtype means that you replace the current text with another text using the ‘Insert’ button on the keyboard. For example, the original sentence is “John is a very good person” and you want to replace “good” with “nice”. If you put the insertion point before “good” and type “nice”, the sentence will be “John is a very nice person” not “John is a very nice good person”.</para>
+      <para id="id1166242279549">
+        <emphasis>To overtype a text:</emphasis>
+      </para>
+      <para id="id1166245000070">Step 1 - Be sure to activate the ‘Overtype option’. To do that , follow the instructions:</para>
+      <figure id="id1166235541564">
+        <media id="id1166235541564_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-a0af.jpg" id="id1166235541564__onlineimage" height="450" width="600"/>
+        </media>
+      </figure>
+      <para id="id1166247911592">Step 2 - To overtype the text, move the insertion point to the place you want to replace the text (before the text); click the insert button (toggles from insert mode to overtype mode).</para>
+      <figure id="id1166236549703">
+        <media id="id1166236549703_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-8334.jpg" id="id1166236549703__onlineimage" height="450" width="600"/>
+        </media>
+      </figure>
+      <para id="id1166240120334">Step 3 - Type the new text that will overtype the existing text. Hit the insert key to toggle off the overtype and return to the insert mode.</para>
+    </section>
+  </content>
+</document>

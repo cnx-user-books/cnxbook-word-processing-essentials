@@ -1,0 +1,28 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Print Preview and Printing</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36215</md:content-id>
+  <md:title>Print Preview and Printing</md:title>
+  <md:abstract>How to print preview a document to review for problems, plus how to print from the print preview screen.</md:abstract>
+  <md:uuid>c41b257a-6858-4725-b468-c558644cc357</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id4812029">In the Print Preview, you can see what your document looks like before printing. It helps you to make your paper looks perfect and organized which saves more papers .</para>
+    <para id="id5023019">In particular, if a part of your document is in the area in which the printer cannot actually print, the Print Layout view may show your text anyway, but Print Preview probably will not. </para>
+    <para id="id4828214">Students must print preview their documents before printing to make sure that the document looks perfect and to avoid wasting papers.</para>
+    <para id="id4902094">To start Print Preview, do the following steps.</para>
+    <figure id="id7557897">
+      <media id="id7557897_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-52a4.jpg" id="id7557897__onlineimage" height="450" width="600"/>
+      </media>
+    </figure>
+    <para id="id7759240">This is how the Print Preview mode looks like.</para>
+    <figure id="id6931130">
+      <media id="id6931130_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-6a8f.jpg" id="id6931130__onlineimage" height="450" width="600"/>
+      </media>
+    </figure>
+  </content>
+</document>

@@ -1,0 +1,36 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Styles</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36247</md:content-id>
+  <md:title>Styles</md:title>
+  <md:abstract>How to use the "Heading 1" style, plus how to change styles for an entire document.</md:abstract>
+  <md:uuid>73a1feba-b456-47c2-b723-ce66c007f1c0</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1166260880731">All formatting in Microsoft Word is controlled by styles. A style is a set of formatting instructions. Word applies the formatting instructions when you apply a style. Microsoft Word comes with dozens of built-in styles.</para>
+    <para id="id1166266736179">Here are the steps of applying a style:</para>
+    <para id="id4609465"><emphasis effect="underline">Step 1:</emphasis> Select the text.</para>
+    <figure id="id1166256130600">
+      <media id="id1166256130600_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-3827.jpg" id="id1166256130600__onlineimage" height="401" width="560"/>
+      </media>
+    </figure>
+    <para id="id1166266943889"><emphasis effect="underline">Step 2:</emphasis> Apply the style: using the mouse.</para>
+    <para id="id1166253485508">
+      <figure id="id1166254452893">
+        <media id="id1166254452893_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-2d4c.jpg" id="id1166254452893__onlineimage" height="450" width="600"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id1166263202990">The results when choosing <emphasis effect="underline">Heading 1</emphasis>:</para>
+    <para id="id1166260878353">
+      <figure id="id1166262937965">
+        <media id="id1166262937965_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-500e.jpg" id="id1166262937965__onlineimage" height="450" width="600"/>
+        </media>
+      </figure>
+    </para>
+  </content>
+</document>

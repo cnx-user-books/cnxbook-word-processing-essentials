@@ -1,0 +1,19 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Undo Command</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36244</md:content-id>
+  <md:title>Undo Command</md:title>
+  <md:abstract>When and how to use the "undo" command when using word processing.</md:abstract>
+  <md:uuid>96a8560c-0a2a-40ed-aa77-8fddff3ab838</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1165674122634">The undo command is used to quickly undo any recent key strokes. It is used when mistakes occur and the user wishes to undo it. For example when a user was typing some text then suddenly it disappears through pressing the wrong key, the easiest way to retrieve the data is through the undo command. The undo command is located next to the save button. </para>
+    <figure id="id1165671866113">
+      <media id="id1165671866113_media" alt="">
+        <image mime-type="image/jpg" src="../../media/Picture 0-f2df.jpg" id="id1165671866113__onlineimage" height="450" width="600"/>
+      </media>
+    </figure>
+    <para id="id1165672762183">As shown in the image above you will have to press the undo command to commence undoing.</para>
+  </content>
+</document>

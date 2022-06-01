@@ -1,0 +1,54 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11246</md:content-id>
+    <md:title>Word Processing Essentials</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>48275d98-4dfc-42a1-bb13-61ba1b4907b9</md:uuid>
+<md:slug>word-processing-essentials</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m36055"/>
+    <col:subcollection>
+      <md:title>Preliminaries</md:title>
+      <col:content>
+        <col:module document="m36246"/>
+        <col:module document="m36244"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Typing</md:title>
+      <col:content>
+        <col:module document="m36218"/>
+        <col:module document="m36262"/>
+        <col:module document="m36292"/>
+        <col:module document="m36217"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Improving</md:title>
+      <col:content>
+        <col:module document="m36220"/>
+        <col:module document="m36247"/>
+        <col:module document="m36213"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Printing</md:title>
+      <col:content>
+        <col:module document="m36281"/>
+        <col:module document="m36219"/>
+        <col:module document="m36291"/>
+        <col:module document="m36245"/>
+        <col:module document="m36215"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Appendix</md:title>
+      <col:content>
+        <col:module document="m18100"/>
+        <col:module document="m36288"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

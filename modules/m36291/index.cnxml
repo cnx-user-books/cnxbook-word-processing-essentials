@@ -1,0 +1,63 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Citations with Footnotes or Endnotes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36291</md:content-id>
+  <md:title>Citations with Footnotes or Endnotes</md:title>
+  <md:abstract>How to cite references using either footnotes or endnotes.</md:abstract>
+  <md:uuid>ee654f43-c68c-4178-af2c-c7cb910fd71b</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1165447241557">Footnotes and endnotes make it easy to give credit to your sources or to add explanatory material. A footnote appears at the end of the page, and the endnote appears at the end of the document. Footnotes and endnotes are also used for additional information about a topic.</para>
+    <para id="id1165441205932">To insert footnote or endnote do the following as shown in figure below:</para>
+    <list id="id1165430480102" list-type="enumerated" number-style="arabic">
+      <item>Place the pointer where you want to insert the reference note.</item>
+      <item>Go to the references tab.</item>
+      <item>In the Footnotes group, click Insert Footnote or Insert Endnote.</item>
+      <item>Type your text, and click back to the text.</item>
+    </list>
+    <figure id="id1165442378226">
+      <media id="id1165442378226_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-d9e1.jpg" id="id1165442378226__onlineimage" height="450" width="600"/>
+      </media>
+    </figure>
+    <para id="id1165442702266">Automatically, Word places footnotes at the end of each page and endnotes at the end of the document.</para>
+    <para id="id1165433205064">Footnotes and endnotes are both separated from the body text by a short horizontal line. Both footnotes and endnotes contain a note reference mark in the body text to indicate that additional information as shown in figures below. The footnote uses sequenced numerals (1, 2 …) and the endnote uses sequenced Roman numerals (i, ii...). If add or delete notes, numbers automatically modified.</para>
+    <figure id="id1165430541558">
+      <media id="id1165430541558_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-9d69.jpg" id="id1165430541558__onlineimage" height="450" width="600"/>
+      </media>
+    </figure>
+    <para id="id1165447617188">
+      <figure id="id1165432091517">
+        <media id="id1165432091517_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-55f8.jpg" id="id1165432091517__onlineimage" height="450" width="600"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id1165444344898">Note text can be formatted as any other text. You can change its color, size, style, etc. You can easily modify your notes simply by clicking inside the note and edit it. To delete note select its note reference number in the text and press Delete.</para>
+    <para id="id1165441165808">Also you can modify it by clicking the Footnote and Endnote Dialog box launcher. Use the dialog box launcher (a little box with an arrow) at the lower-right corner of the Footnotes group of the References tab. </para>
+    <para id="id1165437042785">
+      <figure id="id1165445337065">
+        <media id="id1165445337065_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 0-79e8.jpg" id="id1165445337065__onlineimage" height="450" width="600"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id1165433706992">To convert the footnote to endnote or opposite, click on convert in the Footnote and Endnote Dialog box launcher.</para>
+    <para id="id1165433038884">
+      <figure id="id1165430302766">
+        <media id="id1165430302766_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-0375.jpg" id="id1165430302766__onlineimage" height="450" width="600"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id1165434440744">After converting:</para>
+    <figure id="id1165443775126">
+      <media id="id1165443775126_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics5.jpg" id="id1165443775126__onlineimage" height="392" width="600"/>
+      </media>
+    </figure>
+    <para id="id1165434654250"/>
+  </content>
+</document>
